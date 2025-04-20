@@ -24,8 +24,8 @@ weight_decay: 1e-4 (DNN)
 [LR] Test Acc: 0.82
 [DNN] Test Acc: 0.80
 
-![alt text](flow.png)
-![alt text](bar.png)
+![alt text](./images/flow.png)
+![alt text](./images/bar.png)
 
 # epochs: 10
 

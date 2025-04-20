@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-archive/
-=======
 archive/
 *.zip
 result.txt
 *.py
-*.png
->>>>>>> 4ec2b07 (Fix)
